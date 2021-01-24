@@ -34,9 +34,11 @@ O Git é um sistema **específico open-source de controle de versão** criado po
 
 :radio_button: CD - Entrar em uma pasta
 
-:radio_button: CD ..  Retornar para a pasta
+:radio_button: CD .. - Retornar para a pasta
 
 :radio_button: DIR -  Listando arquivos e pastas
+
+:radio_button: MOVE - Mover arquivos ou renomear pastas
 
 :radio_button: MOVE - Mover arquivos ou renomear pastas
 
@@ -103,10 +105,10 @@ Os arquivos no Git sempre se encontram em algum estado: **untracked**, **unmodif
 
 
 ![Ciclo de Vida](D:\13 - PASTA CENTARL DO GIT - PROJETOS\INTRODUÇÃO AO GIT E GITHUB\img\ciclo de vida.PNG)
+=======
 
 
-
-:radio_button: UNTRACKED - Arquivos marcados como *untracked* são arquivos não monitorados pelo Git. Os arquivos que acabaram de ser criados sempre estarão com esse estado.
+:radio_button: UNTRACKED - Arquivos marcados como untracked são arquivos não monitorados pelo Git. Os arquivos que acabaram de ser criados sempre estarão com esse estado.
 
 :radio_button: UNMODIFIELD - Quando realizamos um commit, os arquivos saem de stage para unmodified, isso significa que, na linha do tempo, seu arquivo está igual ao estado salvo no último commit.
 
@@ -128,6 +130,7 @@ Os arquivos no Git sempre se encontram em algum estado: **untracked**, **unmodif
 
 :radio_button: GIT REMOTE ADD ORIGIN "LINK" - Para adicionar um novo remote, use o comando 'git remote add' no terminal, no diretório em que se repositório está armazenado.
 
+:radio_button: GIT REMOTE ADD ORIGIN "LINK" - Para adicionar um novo remote, use o comando 'git remote add' no terminal, no diretório em que se repositório está armazenado.
 :radio_button: GIT REMOTE -V - Listar remotes atuais.
 
 :radio_button: GIT PUSH - Enviar código da branch indicada para repositório online.
@@ -146,13 +149,22 @@ Ex:
 
 Eu e a Maria, que estamos na equipe GitHub, queremos mexer no código do Projeto, então puxamos para nossas máquinas o projeto que consta na Branch A. 
 
+
 ![Puxando projetos simultaneamente](D:\13 - PASTA CENTARL DO GIT - PROJETOS\INTRODUÇÃO AO GIT E GITHUB\img\p1.PNG)
+
+
 
 Então, vamos imaginar que ambos alterem o projeto, no mesmo arquivo, e então nós duas queremos mandar o projeto com nossas mudanças para o GitHub. 
 
+
+
 ![Enviando o projeto com mudanças para o Git ](D:\13 - PASTA CENTARL DO GIT - PROJETOS\INTRODUÇÃO AO GIT E GITHUB\img\p2.PNG)
+=======
+ 
 
 Quando o projeto que eu mandei para o GitHub é aceito e faz merge com o projeto já existente, este agora contem as alterações que eu havia feito. Porém, o arquivo que a Maria possui, era o projeto sem minhas alterações, o projeto de cor lilás. E agora que ela fez alterações nesse projeto e tenta subir, o conflito aparece. Isso ocorre pois o projeto que está no repositório contém minhas alterações e o projeto que a Maria possui, apenas contem as alterações dela.
+
+
 
 ![](D:\13 - PASTA CENTARL DO GIT - PROJETOS\INTRODUÇÃO AO GIT E GITHUB\img\pc.PNG)
 
@@ -164,14 +176,15 @@ Quando o projeto que eu mandei para o GitHub é aceito e faz merge com o projeto
 
 Quando abrirmos esse arquivo, teremos que procurar pelo erro. Sempre devemos procurar pelos sinais abaixo, já que eles indicam o erro.
 
-![](D:\13 - PASTA CENTARL DO GIT - PROJETOS\INTRODUÇÃO AO GIT E GITHUB\img\pd.PNG)
+
+
+![pd](https://user-images.githubusercontent.com/77255300/105618293-5bcbfb00-5dc4-11eb-9728-0f37ef9a885f.PNG)
 
 Para resolver esse conflito, poderei adicionar o parâmetro que a Maria criou na função ou apagá-lo. Então, apagarei os sinais de erro, deixando apenas a função com as correções.
 
 Para finalizar, após as correções, iremos dar um git add, um git commit e então, um git push para mandar para o repositório remoto. E assim, resolvemos o nosso conflito!
 
 ---
-
 
 
 ![Certificado Git GitHub](D:\13 - PASTA CENTARL DO GIT - PROJETOS\INTRODUÇÃO AO GIT E GITHUB\img\certificado.PNG)
@@ -183,16 +196,12 @@ Para finalizar, após as correções, iremos dar um git add, um git commit e ent
 
 
 ![GitHub](D:\13 - PASTA CENTARL DO GIT - PROJETOS\INTRODUÇÃO AO GIT E GITHUB\img\git.png)
-
-
-
-
-
-Curso ministrado por **_Otavio Reis_**  
+=======
+Curso ministrado por **_Otavio Reis_**
 [**Digital Innovation One Inc**](https://digitalinnovation.one/)  
-[**_Grupo GFT_**](https://www.gft.com/br/pt/index/)   
+[**_Grupo GFT_**](https://www.gft.com/br/pt/index/)  
+
+
 
 ---
-
-
 
