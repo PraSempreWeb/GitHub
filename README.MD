@@ -102,7 +102,7 @@ Os arquivos no Git sempre se encontram em algum estado: **untracked**, **unmodif
 
 
 
-![Ciclo de Vida](D:\13 - PASTA CENTARL DO GIT - PROJETOS\INTRODUÇÃO AO GIT E GITHUB\img\ciclo de vida.PNG)
+![p1](https://user-images.githubusercontent.com/77255300/105618261-055ebc80-5dc4-11eb-93c9-9d8f0db3b915.PNG)
 
 
 
@@ -146,11 +146,11 @@ Ex:
 
 Eu e a Maria, que estamos na equipe GitHub, queremos mexer no código do Projeto, então puxamos para nossas máquinas o projeto que consta na Branch A. 
 
-![Puxando projetos simultaneamente](D:\13 - PASTA CENTARL DO GIT - PROJETOS\INTRODUÇÃO AO GIT E GITHUB\img\p1.PNG)
+![p2](https://user-images.githubusercontent.com/77255300/105618228-ad27ba80-5dc3-11eb-93c1-e900d7f282fc.PNG)
 
 Então, vamos imaginar que ambos alterem o projeto, no mesmo arquivo, e então nós duas queremos mandar o projeto com nossas mudanças para o GitHub. 
 
-![Enviando o projeto com mudanças para o Git ](D:\13 - PASTA CENTARL DO GIT - PROJETOS\INTRODUÇÃO AO GIT E GITHUB\img\p2.PNG)
+![pc](https://user-images.githubusercontent.com/77255300/105618276-2c1cf300-5dc4-11eb-9364-9fdfb55249f7.PNG)
 
 Quando o projeto que eu mandei para o GitHub é aceito e faz merge com o projeto já existente, este agora contem as alterações que eu havia feito. Porém, o arquivo que a Maria possui, era o projeto sem minhas alterações, o projeto de cor lilás. E agora que ela fez alterações nesse projeto e tenta subir, o conflito aparece. Isso ocorre pois o projeto que está no repositório contém minhas alterações e o projeto que a Maria possui, apenas contem as alterações dela.
 
@@ -164,7 +164,7 @@ Quando o projeto que eu mandei para o GitHub é aceito e faz merge com o projeto
 
 Quando abrirmos esse arquivo, teremos que procurar pelo erro. Sempre devemos procurar pelos sinais abaixo, já que eles indicam o erro.
 
-![](D:\13 - PASTA CENTARL DO GIT - PROJETOS\INTRODUÇÃO AO GIT E GITHUB\img\pd.PNG)
+![pd](https://user-images.githubusercontent.com/77255300/105618293-5bcbfb00-5dc4-11eb-9728-0f37ef9a885f.PNG)
 
 Para resolver esse conflito, poderei adicionar o parâmetro que a Maria criou na função ou apagá-lo. Então, apagarei os sinais de erro, deixando apenas a função com as correções.
 
@@ -174,13 +174,13 @@ Para finalizar, após as correções, iremos dar um git add, um git commit e ent
 
 
 
-![Certificado Git GitHub](D:\13 - PASTA CENTARL DO GIT - PROJETOS\INTRODUÇÃO AO GIT E GITHUB\img\certificado.PNG)
+![certificado](https://user-images.githubusercontent.com/77255300/105618299-67b7bd00-5dc4-11eb-9e94-24406d0a1f5f.PNG)
 
 
 
 
 
-![GitHub](D:\13 - PASTA CENTARL DO GIT - PROJETOS\INTRODUÇÃO AO GIT E GITHUB\img\git.png)
+![git](https://user-images.githubusercontent.com/77255300/105618305-72725200-5dc4-11eb-813d-52b5a768ff1d.png)
 
 
 
