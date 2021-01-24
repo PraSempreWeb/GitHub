@@ -6,6 +6,7 @@ Nesse curso foi apresentado um pouco da história do Git e como ele se tornou es
 
 ## 1. Conteúdo abordado
 
+
 :radio_button: Introdução ao Git
 
 :radio_button: Navegação via command line interface e instalação
@@ -22,6 +23,7 @@ Nesse curso foi apresentado um pouco da história do Git e como ele se tornou es
 
 ## 2. Introdução ao Git
 
+
 O Git é um sistema **específico open-source de controle de versão** criado por Linus Torvalds em 2005. De forma específica, o Git é um **sistema de controle de versões distribuído**, ou seja, toda a base de código e histórico fica disponível no computador de todos os desenvolvedores, o que permite um branching e merging simples. Segunda uma [investigação de desenvolvedores da Stack Overflow](https://insights.stackoverflow.com/survey/2018/#work-version-control), mais de 87% dos desenvolvedores usam o Git.
 
 
@@ -29,6 +31,7 @@ O Git é um sistema **específico open-source de controle de versão** criado po
 ## 3. Navegação via Command Line Interface e Instalação
 
 ### Comandos
+
 
 :radio_button: CD / - direciona para base
 
@@ -56,6 +59,7 @@ O Git é um sistema **específico open-source de controle de versão** criado po
 
 ## 4. Sobre Markdow
 
+
 **Markdown Syntax** é uma sintaxe usada para padronizar e facilitar formatação de texto na web, utilizada em aplicativos como [Slack](https://slack.com/) e [GitHub](https://github.com/). Textos estilizados com **Markdown** são, na maioria dos casos, apenas texto com caracteres não-alfabéticos, como `#`, `\*` e `![]()`, usados para a configuração de títulos, listas, itálico, negrito e inserção de imagens.
 
 
@@ -63,6 +67,7 @@ O Git é um sistema **específico open-source de controle de versão** criado po
 ## 5. Entendendo como Git funciona por baixo dos panos
 
 ### Git sistema distribuído e seguro
+
 
 O **GIT** também é um dos VCS mais **seguros** do mercado. Nele todo o conteúdo dos códigos, assim como a relação entre os diferentes arquivos, diretórios, versões e tags são criptograficamente protegidos por um algoritmo de hashing chamado SHA1. ... Além disso, tudo no **GIT** tem seu checksum calculado antes que seja armazenado.
 
@@ -99,6 +104,7 @@ Um **commit** é o ato de enviar e guardar, ou seja, enviar dados ou códigos pa
 
 
 ## 7. Ciclo de vida do arquivo Git
+
 
 Os arquivos no Git sempre se encontram em algum estado: **untracked**, **unmodified**, **modified** e **stage**. Entender esses estados nos ajuda a saber melhor qual o momento certo de usar cada comando.
 
@@ -142,6 +148,7 @@ Os arquivos no Git sempre se encontram em algum estado: **untracked**, **unmodif
 
 
 # 8. Resolvendo conflitos
+
 
 Bem, um conflito é gerado quando duas pessoas mexem em um mesmo arquivo de código, gerando incompatibilidade com o arquivo que se encontra no repositório. 
 
