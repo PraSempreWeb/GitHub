@@ -204,6 +204,8 @@ Para finalizar, após as correções, iremos dar um git add, um git commit e ent
 
 ![git](https://user-images.githubusercontent.com/77255300/105619187-f598a580-5dce-11eb-8c54-76d2f3e174b9.png)
 =======
+
+Desenvolvido por:  ```Cristiano Bonifácio```  
 Curso ministrado por **_Otavio Reis_**  
 [**Digital Innovation One Inc**](https://digitalinnovation.one/)  
 [**_Grupo GFT_**](https://www.gft.com/br/pt/index/)  
