@@ -160,7 +160,7 @@ Então, vamos imaginar que ambos alterem o projeto, no mesmo arquivo, e então n
 
 ![Enviando o projeto com mudanças para o Git ](D:\13 - PASTA CENTARL DO GIT - PROJETOS\INTRODUÇÃO AO GIT E GITHUB\img\p2.PNG)
 =======
- 
+
 
 Quando o projeto que eu mandei para o GitHub é aceito e faz merge com o projeto já existente, este agora contem as alterações que eu havia feito. Porém, o arquivo que a Maria possui, era o projeto sem minhas alterações, o projeto de cor lilás. E agora que ela fez alterações nesse projeto e tenta subir, o conflito aparece. Isso ocorre pois o projeto que está no repositório contém minhas alterações e o projeto que a Maria possui, apenas contem as alterações dela.
 
@@ -197,7 +197,7 @@ Para finalizar, após as correções, iremos dar um git add, um git commit e ent
 
 ![GitHub](D:\13 - PASTA CENTARL DO GIT - PROJETOS\INTRODUÇÃO AO GIT E GITHUB\img\git.png)
 =======
-Curso ministrado por **_Otavio Reis_**
+Curso ministrado por **_Otavio Reis_**  
 [**Digital Innovation One Inc**](https://digitalinnovation.one/)  
 [**_Grupo GFT_**](https://www.gft.com/br/pt/index/)  
 
