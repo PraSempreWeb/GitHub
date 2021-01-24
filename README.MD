@@ -206,6 +206,7 @@ Para finalizar, após as correções, iremos dar um git add, um git commit e ent
 =======
 
 Desenvolvido por:  ```Cristiano Bonifácio```  
+
 Curso ministrado por **_Otavio Reis_**  
 [**Digital Innovation One Inc**](https://digitalinnovation.one/)  
 [**_Grupo GFT_**](https://www.gft.com/br/pt/index/)  
