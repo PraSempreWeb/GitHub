@@ -109,36 +109,21 @@ Os arquivos no Git sempre se encontram em algum estado: **untracked**, **unmodif
 
 
 :radio_button: UNTRACKED - Arquivos marcados como untracked são arquivos não monitorados pelo Git. Os arquivos que acabaram de ser criados sempre estarão com esse estado.
-
 :radio_button: UNMODIFIELD - Quando realizamos um commit, os arquivos saem de stage para unmodified, isso significa que, na linha do tempo, seu arquivo está igual ao estado salvo no último commit.
-
 :radio_button: MODIFIELD - São os arquivos já monitorados pelo Git que sofreram alguma alteração desde o último commit.
-
 :radio_button: STAGE - Os arquivos marcados como stage são os arquivos novos ou modificados que serão salvos no próximo commit.
-
 :radio_button: GIT STATUS - Exibir o estado atual do git.
-
 :radio_button: GIT CONFIG --LIST - Verificar Configurações.
-
 :radio_button: GIT CONFIG --GLOBAL --UNSET - Reescreve o email cadastrado
-
 :radio_button: GIT CONFIG --GLOBAL --UNSET - Reescreve o usuario cadastrado
-
 :radio_button: GIT CONFIG --GLOBAL USER.EMAIL - Adiciona email.
-
 :radio_button: GIT CONFIG --GLOBAL USER.NAME - Adiciona Usuário.
-
 :radio_button: GIT REMOTE ADD ORIGIN "LINK" - Para adicionar um novo remote, use o comando 'git remote add' no terminal, no diretório em que se repositório está armazenado.
-
 :radio_button: GIT REMOTE ADD ORIGIN "LINK" - Para adicionar um novo remote, use o comando 'git remote add' no terminal, no diretório em que se repositório está armazenado.
 :radio_button: GIT REMOTE -V - Listar remotes atuais.
-
 :radio_button: GIT PUSH - Enviar código da branch indicada para repositório online.
-
 :radio_button: GIT PULL - Baixar alterações do repositório online para repositório local na branch indicada.
-
 :radio_button: GIT CLONE - Copiar diretório git do link de origem para diretório destino
-
 
 
 # 8. Resolvendo conflitos
