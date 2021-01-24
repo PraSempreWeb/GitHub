@@ -3,7 +3,6 @@
 Nesse curso foi apresentado um pouco da história do Git e como ele se tornou essencial para otimizar projetos dos desenvolvedores. Também conhecendo seus principais comandos, como funciona a plataforma e como ela pode simplificar o seu trabalho.
 
 
-
 ## 1. Conteúdo abordado
 
 
