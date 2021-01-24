@@ -207,7 +207,7 @@ Para finalizar, após as correções, iremos dar um git add, um git commit e ent
 
 Desenvolvido por:  [```Cristiano Bonifácio```  ](https://www.linkedin.com/in/cristianowebdesigner2019/)
 
-Curso ministrado por **_Otavio Reis_**  
+Curso ministrado por ```Otavio Reis```  
 [**Digital Innovation One Inc**](https://digitalinnovation.one/)  
 [**_Grupo GFT_**](https://www.gft.com/br/pt/index/)  
 
