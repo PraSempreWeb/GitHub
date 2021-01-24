@@ -104,7 +104,7 @@ Os arquivos no Git sempre se encontram em algum estado: **untracked**, **unmodif
 
 
 
-![Ciclo de Vida](D:\13 - PASTA CENTARL DO GIT - PROJETOS\INTRODUÇÃO AO GIT E GITHUB\img\ciclo de vida.PNG)
+![ciclo de vida](https://user-images.githubusercontent.com/77255300/105619138-7014f580-5dce-11eb-977c-df469f1e167e.PNG)
 =======
 
 
@@ -150,7 +150,7 @@ Ex:
 Eu e a Maria, que estamos na equipe GitHub, queremos mexer no código do Projeto, então puxamos para nossas máquinas o projeto que consta na Branch A. 
 
 
-![Puxando projetos simultaneamente](D:\13 - PASTA CENTARL DO GIT - PROJETOS\INTRODUÇÃO AO GIT E GITHUB\img\p1.PNG)
+![p1](https://user-images.githubusercontent.com/77255300/105619145-8f138780-5dce-11eb-964f-e949091dbff1.PNG)
 
 
 
@@ -158,7 +158,7 @@ Então, vamos imaginar que ambos alterem o projeto, no mesmo arquivo, e então n
 
 
 
-![Enviando o projeto com mudanças para o Git ](D:\13 - PASTA CENTARL DO GIT - PROJETOS\INTRODUÇÃO AO GIT E GITHUB\img\p2.PNG)
+![p2](https://user-images.githubusercontent.com/77255300/105619159-b36f6400-5dce-11eb-996c-3f4ab54f500a.PNG)
 =======
 
 
@@ -166,7 +166,7 @@ Quando o projeto que eu mandei para o GitHub é aceito e faz merge com o projeto
 
 
 
-![](D:\13 - PASTA CENTARL DO GIT - PROJETOS\INTRODUÇÃO AO GIT E GITHUB\img\pc.PNG)
+![pc](https://user-images.githubusercontent.com/77255300/105619168-c2eead00-5dce-11eb-9829-45d9dfb418b2.PNG)
 
 ### **Mas e agora? Como eu resolvo isso?**
 
@@ -178,7 +178,7 @@ Quando abrirmos esse arquivo, teremos que procurar pelo erro. Sempre devemos pro
 
 
 
-![pd](https://user-images.githubusercontent.com/77255300/105618293-5bcbfb00-5dc4-11eb-9728-0f37ef9a885f.PNG)
+![pd](https://user-images.githubusercontent.com/77255300/105619177-d8fc6d80-5dce-11eb-95cd-fcf8a51bdb96.PNG)
 
 Para resolver esse conflito, poderei adicionar o parâmetro que a Maria criou na função ou apagá-lo. Então, apagarei os sinais de erro, deixando apenas a função com as correções.
 
@@ -187,7 +187,7 @@ Para finalizar, após as correções, iremos dar um git add, um git commit e ent
 ---
 
 
-![Certificado Git GitHub](D:\13 - PASTA CENTARL DO GIT - PROJETOS\INTRODUÇÃO AO GIT E GITHUB\img\certificado.PNG)
+![certificado](https://user-images.githubusercontent.com/77255300/105619181-e74a8980-5dce-11eb-94b1-df36b8c9ee42.PNG)
 
 
 
@@ -195,7 +195,7 @@ Para finalizar, após as correções, iremos dar um git add, um git commit e ent
 
 
 
-![GitHub](D:\13 - PASTA CENTARL DO GIT - PROJETOS\INTRODUÇÃO AO GIT E GITHUB\img\git.png)
+![git](https://user-images.githubusercontent.com/77255300/105619187-f598a580-5dce-11eb-8c54-76d2f3e174b9.png)
 =======
 Curso ministrado por **_Otavio Reis_**  
 [**Digital Innovation One Inc**](https://digitalinnovation.one/)  
